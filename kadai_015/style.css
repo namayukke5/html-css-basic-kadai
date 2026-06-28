@@ -29,6 +29,6 @@ body {
   text-align: center;
 }
 
-.bold {
+#basic p {
   font-weight: bold;
 }
